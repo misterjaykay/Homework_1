@@ -1,18 +1,22 @@
-# Homework_1
-## Installation
->All the ```code``` required to get started.
-- - -
-## Clone
->You may clone this repo using link below.
+# Homework_1 Code Refactor
 
->[Repo Link](https://github.com/misterjaykay/Homework_1)
+<br></br>
+
+## Used Language/Technology
+>HTML5
+
+>CSS3
 - - -
-## Set up
->
-- - -
-## Used Languages/Program
-* >HTML5 
-* >CSS3 
-* >Visual Stuido Code
+
+<br></br>
+
+## Changes
+>Using the Semantic HTML Elements
+
+```<div>``` were replaced with corresponding elements such as ```<header>,<nav>,<section>,<article>,<aside>,<footer>```
+
+>Fix the non-working Hyperlink ```Search Engine Optimization```
+
+Because ID was missing from the HTML code, Hyperlink ```Search Engine Optimization``` did not work, so I had to write an ID in it.
 - - -
 
